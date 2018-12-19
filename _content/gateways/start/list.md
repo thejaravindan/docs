@@ -76,3 +76,8 @@ This is a list of commercial LoRaWAN gateways currently available for purchase. 
 ## Link Labs
 
 + LL-BST-8
+
+## DRAGINO
+
++ [LG308 Indoor LoRaWAN Pico Gateway](http://www.dragino.com/products/lora/item/140-lg308.html): open source and includes a SX1308 LoRa concentrator and a SX1276 LoRa tranceiver. The sx1308 provides 10 programmable parallel demodulation paths and the SX1276 acts as TX channel so the SX1308 won’t be block during TX. 
+
